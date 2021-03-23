@@ -26,7 +26,7 @@ setup(
     },
     include_package_data=True,
     install_requires=[
-        "RTIMULib@git+https://github.com/RPi-Distro/RTIMULib@V7.2.1#subdirectory=Linux/python",
+        "RTIMULib@git+https://github.com/RPi-Distro/RTIMULib@V7.2.1#subdirectory=Linux/python#egg=RTIMULib",
         "pillow",
         "numpy"
     ],
