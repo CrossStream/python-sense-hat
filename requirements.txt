@@ -1,0 +1,5 @@
+# -*- coding: utf-8 -*- 
+# TODO: https://github.com/astro-pi/python-sense-hat/issues/58#issuecomment-624958208
+RTIMULib@git+https://github.com/RPi-Distro/RTIMULib@V7.2.1#subdirectory=Linux/python
+numpy>=0.1.5
+pillow>=8.1.2"
